@@ -11,4 +11,11 @@ Implemented 3 microservices: <br>
 
 ## Screenshots
 
+GET result after POST with "msg5": <br>
 ![GET result after POST with "msg5"](./get_after_post.png)
+
+POST with "msg8": <br>
+![POST with "msg8"](./post_msg8.png)
+
+GET result after POST with "msg8": <br>
+![GET result after POST with "msg8"](./get_after_post_msg8.png)
